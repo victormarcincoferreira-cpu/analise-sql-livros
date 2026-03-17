@@ -71,6 +71,11 @@ As tabelas estão relacionadas principalmente pelo campo `book_id`.
 2. Execute as queries SQL disponíveis no projeto  
 
 ---
+## 🗄️ Fonte dos dados
+
+Os dados utilizados neste projeto foram acessados a partir de um banco de dados PostgreSQL disponibilizado em ambiente de estudo.
+
+As consultas SQL foram executadas utilizando conexão via Python (SQLAlchemy), porém neste repositório estão disponíveis apenas as queries utilizadas na análise.
 
 ## 👨‍💻 Autor
 Victor Marcinco Ferreira
